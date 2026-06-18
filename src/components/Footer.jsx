@@ -2,7 +2,7 @@ import logo from "../assets/logo.png";
 
 export default function Footer() {
   return (
-    <footer className="bg-[#EDF6FF] pt-16">
+    <footer className="bg-[#f1f6fa] pt-16">
       <div className="max-w-7xl mx-auto px-5">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12">
           <div>
